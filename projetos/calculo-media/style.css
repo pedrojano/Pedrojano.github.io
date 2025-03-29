@@ -1,0 +1,80 @@
+/* Estilo geral */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Garante que o conteúdo fique centralizado verticalmente */
+}
+
+/* Seção principal */
+section {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 300px; /* Limita a largura máxima */
+    display: flex;
+    flex-direction: column; /* Garante alinhamento vertical */
+    align-items: center; /* Centraliza horizontalmente */
+}
+
+/* Título */
+h1 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Inputs e botão */
+.informacoes {
+    width: 100%; /* Garante que o conteúdo ocupe toda a largura disponível */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os inputs horizontalmente */
+}
+
+.informacoes input[type="text"],
+.informacoes input[type="number"] {
+    width: 90%; /* Ajusta a largura dos inputs */
+    padding: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center; /* Centraliza o texto digitado */
+}
+
+.informacoes input::placeholder {
+    color: #aaa;
+    font-size: 13px;
+}
+
+/* Botão */
+.informacoes button {
+    width: 90%; /* Alinha o botão com os inputs */
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.informacoes button:hover {
+    background-color: #45a049;
+}
+
+/* Resultado */
+#resultado {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #333;
+}

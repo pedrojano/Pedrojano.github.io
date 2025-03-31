@@ -39,7 +39,7 @@ window.addEventListener('scroll', () => {
         }
     });
 });
-// Galeria de Fotos
+
 document.addEventListener('DOMContentLoaded', function() {
     const images = document.querySelectorAll('.gallery-img');
     const prevBtn = document.querySelector('.gallery-prev');
@@ -47,7 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentIndex = 0;
     let intervalId;
 
-    // Função para mostrar imagem
     function showImage(index) {
         images.forEach(img => img.classList.remove('active'));
         images[index].classList.add('active');
@@ -55,19 +54,16 @@ document.addEventListener('DOMContentLoaded', function() {
         updateIndicators();
     }
 
-    // Próxima imagem
     function nextImage() {
         currentIndex = (currentIndex + 1) % images.length;
         showImage(currentIndex);
     }
 
-    // Imagem anterior
     function prevImage() {
         currentIndex = (currentIndex - 1 + images.length) % images.length;
         showImage(currentIndex);
     }
 
-    // Criar indicadores
     function createIndicators() {
         const indicatorsContainer = document.createElement('div');
         indicatorsContainer.className = 'gallery-indicators';
@@ -89,17 +85,14 @@ document.addEventListener('DOMContentLoaded', function() {
             indicator.classList.toggle('active', index === currentIndex);
         });
     }
-
     
     function startSlideshow() {
-        intervalId = setInterval(nextImage, 5000); // Troca a cada 5 segundos
+        intervalId = setInterval(nextImage, 5000); 
     }
-
     
     function pauseSlideshow() {
         clearInterval(intervalId);
     }
-
     
     nextBtn.addEventListener('click', () => {
         nextImage();
@@ -113,7 +106,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     document.querySelector('.gallery-container').addEventListener('mouseenter', pauseSlideshow);
     document.querySelector('.gallery-container').addEventListener('mouseleave', startSlideshow);
-
 
     createIndicators();
     startSlideshow();

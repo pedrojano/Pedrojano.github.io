@@ -342,7 +342,7 @@ main {
 
 .container-experiences {
     text-align: center;
-    display: grid;
+    display: flexbox;
     margin-top: 20px;
 }
 
@@ -365,12 +365,13 @@ main {
 
 .experiences ul {
     background-color: var(--secondary);
-    display: inline-block;
+    display: inline;
     border-radius: 8px;
     width: 300px;
     height: 250px;
     text-decoration: none;
     margin: 20px;
+    gap: 2rem;
     box-shadow: var(--primary);
     transition: all 0.3s ease;
 }

@@ -45,7 +45,7 @@ Se quiser trocar uma ideia, colaborar ou contratar:
 
 LinkedIn: linkedin.com/in/pedrojano
 
-Email: pedrino022@gmail.com
-Linkedin: Pedro Henrique Janó
+- Email: pedrino022@gmail.com
+- Linkedin: Pedro Henrique Janó
 
 

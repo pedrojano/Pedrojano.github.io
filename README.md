@@ -38,7 +38,7 @@ Se quiser clonar e rodar na sua máquina:
 ```bash
 git clone https://github.com/pedrojano/pedrojano.github.io
 cd pedrojano.github.io
-# Em seguida, abra o arquivo index.html no navegador
+Em seguida, abra o arquivo index.html no navegador
 
 📬 Contato
 Se quiser trocar uma ideia, colaborar ou contratar:

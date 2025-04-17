@@ -45,7 +45,7 @@ Se quiser trocar uma ideia, colaborar ou contratar:
 
 LinkedIn: linkedin.com/in/pedrojano
 
-Email: pedrojano.dev@gmail.com
+Email: pedrino022@gmail.com
 
 Se quiser depois colocar badges, ícones, ou links pros projetos específicos com imagens, dá pra deixar ainda mais top. Só me chamar! 🚀
 

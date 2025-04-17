@@ -35,12 +35,12 @@ O objetivo deste portfólio é reunir meus principais projetos, destacar minhas 
 
 Se quiser clonar e rodar na sua máquina:
 
-```bash
+
 git clone https://github.com/pedrojano/pedrojano.github.io
 cd pedrojano.github.io
 Em seguida, abra o arquivo index.html no navegador
 
-📬 Contato
+## 📬 Contato
 Se quiser trocar uma ideia, colaborar ou contratar:
 
 LinkedIn: linkedin.com/in/pedrojano

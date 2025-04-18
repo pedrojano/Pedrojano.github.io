@@ -1,4 +1,4 @@
-# 🧑‍💻 Portfólio - Pedro Jano
+#  Portfólio - Pedro Jano
 
 Este é o meu portfólio pessoal desenvolvido com foco em front-end, onde apresento projetos, experiências e habilidades. Tudo feito com carinho e código limpo pra mostrar quem eu sou como dev e onde posso chegar.
 
@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal desenvolvido com foco em front-end, onde aprese
 
 ---
 
-## ✨ Sobre
+##  Sobre
 
 O objetivo deste portfólio é reunir meus principais projetos, destacar minhas skills em desenvolvimento web e facilitar o contato profissional. É meu cartão de visitas digital — feito pra ser simples, funcional e direto ao ponto.
 
@@ -22,7 +22,7 @@ O objetivo deste portfólio é reunir meus principais projetos, destacar minhas 
 
 ---
 
-## 🧩 Estrutura do site
+##  Estrutura do site
 
 - **Home:** Apresentação rápida + call-to-action  
 - **Sobre mim:** Um pouco da minha trajetória e visão como dev  
@@ -31,7 +31,7 @@ O objetivo deste portfólio é reunir meus principais projetos, destacar minhas 
 
 ---
 
-## 🚀 Como rodar localmente
+##  Como rodar localmente
 
 Se quiser clonar e rodar na sua máquina:
 
@@ -40,7 +40,7 @@ git clone https://github.com/pedrojano/pedrojano.github.io
 cd pedrojano.github.io
 Em seguida, abra o arquivo index.html no navegador
 ```
-## 📬 Contato
+##  Contato
 Se quiser trocar uma ideia, colaborar ou contratar:
 
 LinkedIn: linkedin.com/in/pedrojano

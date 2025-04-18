@@ -1,4 +1,4 @@
-#  Portfólio - Pedro Jano
+#  Portfólio - Pedro Janó
 
 Este é o meu portfólio pessoal desenvolvido com foco em front-end, onde apresento projetos, experiências e habilidades. Tudo feito com carinho e código limpo pra mostrar quem eu sou como dev e onde posso chegar.
 

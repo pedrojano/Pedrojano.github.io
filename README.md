@@ -2,7 +2,7 @@
 
 Este é o meu portfólio pessoal desenvolvido com foco em front-end, onde apresento projetos, experiências e habilidades. Tudo feito com carinho e código limpo pra mostrar quem eu sou como dev e onde posso chegar.
 
-🔗 **Acesse aqui:** [pedrojano.github.io](https://pedrojano.github.io/)
+ **Acesse aqui:** [pedrojano.github.io](https://pedrojano.github.io/)
 
 ---
 
@@ -12,7 +12,7 @@ O objetivo deste portfólio é reunir meus principais projetos, destacar minhas 
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **HTML5**  
 - **CSS3 / SCSS**  
